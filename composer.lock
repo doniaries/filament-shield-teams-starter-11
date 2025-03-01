@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "59ab203707909650500df29ea11a6c69",
+    "content-hash": "e9e45acd21271768ed81c3d98f6276f5",
     "packages": [
         {
             "name": "amendozaaguiar/filament-route-statistics",
