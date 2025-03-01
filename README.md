@@ -1,7 +1,10 @@
  Filament Shield Team Starter with Laravel 11
 
-Filament Starter is a [Filament](https://filamentphp.com/) Update to Laravel 11
+Filament Starter is a [Filament](https://filamentphp.com/) 
 sample Team A dan Team B
+
+php min 8.2
+Laravel 11
 
 User : superadmin@gmail.com
 password : 
