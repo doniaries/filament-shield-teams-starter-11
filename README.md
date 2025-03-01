@@ -1,7 +1,7 @@
  Filament Shield Team Starter with Laravel 11
 
 Filament Starter is a [Filament](https://filamentphp.com/) Update to Laravel 11
-Team A dan Team B
+sample Team A dan Team B
 
 User : superadmin@gmail.com
 password : 
@@ -54,4 +54,7 @@ php artisan db:seed
 
 You can now go to /admin on your site and you should see the filament 
 login screen. 
+
+thanks to frode
+this code have edit from https://github.com/frode81/Starter
 
