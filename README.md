@@ -1,11 +1,6 @@
  Filament Shield Team Starter with Laravel 11
 
-Filament Starter is a [Filament](https://filamentphp.com/) distribution with lots 
-of pre-installed.
-
-## New Installation
-
-Update to Laravel 11
+Filament Starter is a [Filament](https://filamentphp.com/) Update to Laravel 11
 Team A dan Team B
 
 User : superadmin@gmail.com
